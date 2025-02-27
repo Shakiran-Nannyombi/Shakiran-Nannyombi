@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue)

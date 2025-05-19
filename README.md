@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 ### 💻 About Me
 
 - 🔭 I’m currently working on **exciting tech projects**

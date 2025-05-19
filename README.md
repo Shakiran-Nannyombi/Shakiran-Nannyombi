@@ -10,7 +10,16 @@
    
 # 💻 About Me
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 32px; flex-wrap: wrap;">
+
+<img src="assets/innovation.png" alt="Innovation Illustration" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+
+<div align="left" style="max-width: 400px;">
+
 I'm currently focused on building innovative web applications and exploring the intersection of artificial intelligence, machine learning, and data science. My projects involve developing robust APIs, enhancing user experiences with modern frontend frameworks, and contributing to open-source initiatives. I'm passionate about leveraging technology to solve real-world problems and continuously expanding my skill set in the ever-evolving tech landscape.
+
+</div>
+</div>
 
 - 🌱 I’m currently learning **Javascript, Web development, AI/ML, Data Science, and Flutter**
 

@@ -10,6 +10,8 @@
    
 # 💻 About Me
 
+I'm currently focused on building innovative web applications and exploring the intersection of artificial intelligence, machine learning, and data science. My projects involve developing robust APIs, enhancing user experiences with modern frontend frameworks, and contributing to open-source initiatives. I'm passionate about leveraging technology to solve real-world problems and continuously expanding my skill set in the ever-evolving tech landscape.
+
 - 🔭 I’m currently working on **exciting tech projects**
 - 🌱 I’m currently learning **AI/ML, Data Science, and Flutter**
 - 👯 I’m looking to collaborate on **open-source and innovative ideas**

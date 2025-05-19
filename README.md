@@ -15,8 +15,12 @@
         <td align="center" width="220" valign="top">
             <img src="assets/innovation.png" alt="Innovation Illustration" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
         </td>
-        <td valign="top">
-        I'm currently focused on building innovative web applications and exploring the intersection of artificial intelligence, machine learning, and data science. My projects involve developing robust APIs, enhancing user experiences with modern frontend frameworks, and contributing to open-source initiatives. I'm passionate about leveraging technology to solve real-world problems and continuously expanding my skill set in the ever-evolving tech landscape.
+        <td valign="top" align="center">
+            <div style="font-family: 'Fira Code', 'Segoe UI', monospace; font-size: 1.15rem; line-height: 1.6;">
+                <span style="font-weight: bold; color: #f7971e;">I'm currently focused</span> on building <span style="font-weight: bold; color: #a18cd1;">innovative web applications</span> and exploring the intersection of <span style="font-weight: bold; color: #84fab0;">artificial intelligence</span>, <span style="font-weight: bold; color: #fad0c4;">machine learning</span>, and <span style="font-weight: bold; color: #fbc2eb;">data science</span>.<br><br>
+                My projects involve developing <span style="font-weight: bold; color: #f7971e;">robust APIs</span>, enhancing user experiences with <span style="font-weight: bold; color: #a18cd1;">modern frontend frameworks</span>, and contributing to <span style="font-weight: bold; color: #84fab0;">open-source initiatives</span>.<br><br>
+                <span style="font-weight: bold; color: #fad0c4;">I'm passionate</span> about leveraging technology to <span style="font-weight: bold; color: #f7971e;">solve real-world problems</span> and <span style="font-weight: bold; color: #a18cd1;">continuously expanding</span> my skill set in the ever-evolving tech landscape.
+            </div>
         </td>
     </tr>
 </table>

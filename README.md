@@ -16,11 +16,10 @@
             <img src="assets/innovation.png" alt="Innovation Illustration" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
         </td>
         <td valign="top" align="center">
-            <div style="font-family: 'Fira Code', 'Segoe UI', monospace; font-size: 1.15rem; line-height: 1.6;">
-                <span style="font-weight: bold; color: #f7971e;">I'm currently focused</span> on building <span style="font-weight: bold; color: #a18cd1;">innovative web applications</span> and exploring the intersection of <span style="font-weight: bold; color: #84fab0;">artificial intelligence</span>, <span style="font-weight: bold; color: #fad0c4;">machine learning</span>, and <span style="font-weight: bold; color: #fbc2eb;">data science</span>.<br><br>
-                My projects involve developing <span style="font-weight: bold; color: #f7971e;">robust APIs</span>, enhancing user experiences with <span style="font-weight: bold; color: #a18cd1;">modern frontend frameworks</span>, and contributing to <span style="font-weight: bold; color: #84fab0;">open-source initiatives</span>.<br><br>
-                <span style="font-weight: bold; color: #fad0c4;">I'm passionate</span> about leveraging technology to <span style="font-weight: bold; color: #f7971e;">solve real-world problems</span> and <span style="font-weight: bold; color: #a18cd1;">continuously expanding</span> my skill set in the ever-evolving tech landscape.
-            </div>
+        <br><br>
+            <strong>I'm currently focused</strong> on building <strong>innovative web applications</strong> and exploring the intersection of <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>data science</strong>.<br><br>
+            My projects involve developing <strong>robust APIs</strong>, enhancing user experiences with <strong>modern frontend frameworks</strong>, and contributing to <strong>open-source initiatives</strong>.<br><br>
+            <strong>I'm passionate</strong> about leveraging technology to <strong>solve real-world problems</strong> and <strong>continuously expanding</strong> my skill set in the ever-evolving tech landscape.
         </td>
     </tr>
 </table>

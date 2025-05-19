@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Hi+I'm+Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
 </p>
    
-### 💻 About Me
+## 💻 About Me
 
 - 🔭 I’m currently working on **exciting tech projects**
 - 🌱 I’m currently learning **AI/ML, Data Science, and Flutter**

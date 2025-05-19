@@ -12,12 +12,21 @@
 
 I'm currently focused on building innovative web applications and exploring the intersection of artificial intelligence, machine learning, and data science. My projects involve developing robust APIs, enhancing user experiences with modern frontend frameworks, and contributing to open-source initiatives. I'm passionate about leveraging technology to solve real-world problems and continuously expanding my skill set in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on **exciting tech projects**
-- 🌱 I’m currently learning **AI/ML, Data Science, and Flutter**
-- 👯 I’m looking to collaborate on **open-source and innovative ideas**
-- 💬 Ask me about **web development, APIs, and cybersecurity**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) <!-- Add your actual link -->
-- 😄 Pronouns: *She/Her*
+- 🌱 I’m currently learning **Javascript, Web development, AI/ML, Data Science, and Flutter**
+
+---
+
+### ✨ More About Me
+
+- 📫 **How to reach me:**  
+    [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+    *Let's connect and collaborate!*
+
+- 😄 **Pronouns:**  
+    <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge" />  
+    *Empowering diversity in tech!*
+
+---
 - ⚡ Fun fact: *I love blending creativity with technology!*
 
 ---

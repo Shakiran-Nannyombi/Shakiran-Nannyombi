@@ -27,7 +27,7 @@ I'm currently focused on building innovative web applications and exploring the 
     *Empowering diversity in tech!*
 
 ---
-- ⚡ Fun fact: *I love blending creativity with technology!*
+- ⚡ Fun fact: *I love blending design with technology!*
 
 ---
 

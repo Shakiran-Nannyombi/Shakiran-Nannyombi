@@ -15,12 +15,12 @@
         <td align="center" width="220" valign="top">
             <img src="assets/innovation.png" alt="Innovation Illustration" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
         </td>
-        <td valign="top" align="center">
-        <br><br>
-            <strong>I'm currently focused</strong> on building <strong>innovative web applications</strong> and exploring the intersection of <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>data science</strong>.<br><br>
-            My projects involve developing <strong>robust APIs</strong>, enhancing user experiences with <strong>modern frontend frameworks</strong>, and contributing to <strong>open-source initiatives</strong>.<br><br>
-            <strong>I'm passionate</strong> about leveraging technology to <strong>solve real-world problems</strong> and <strong>continuously expanding</strong> my skill set in the ever-evolving tech landscape.
-        </td>
+        <td valign="top" align="center" style="font-size: 18px; color: #2a2a72; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; line-height: 1.5; text-shadow: 1px 1px 2px #aaa; padding: 15px; border: 2px solid #2a2a72; border-radius: 8px; background-color: #f0f4ff;">
+    <br><br>
+    <strong>I'm currently focused</strong> on building <strong>innovative web applications</strong> and exploring the intersection of <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>data science</strong>.<br><br>
+    My projects involve developing <strong>robust APIs</strong>, enhancing user experiences with <strong>modern frontend frameworks</strong>, and contributing to <strong>open-source initiatives</strong>.<br><br>
+    <strong>I'm passionate</strong> about leveraging technology to <strong>solve real-world problems</strong> and <strong>continuously expanding</strong> my skill set in the ever-evolving tech landscape.
+</td>
     </tr>
 </table>
 

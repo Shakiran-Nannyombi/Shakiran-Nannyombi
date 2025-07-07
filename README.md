@@ -24,7 +24,7 @@
     </tr>
 </table>
 
-- 🌱 I’m currently learning **Javascript, Web development, AI/ML, Data Science, and Flutter**
+- 🌱 I’m currently learning ** Web development, AI/ML, Data Science, Mobile developement and Design **
 
 ---
 

@@ -1,6 +1,8 @@
 # Hi there, I'm Shakiran 👋
 
-<img src="assets/kiran.png" alt="Skills Animation" width="1280"/>
+<img src="as| **📫 How to reach me** | **Pronouns** | **📧 Email** | **👀 Profile Views** |
+|:---:|:---:|:---:|:---:|
+| <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>*Let's connect and collaborate!* | <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge" /><br>*Empowering diversity in tech!* | <a href="mailto:shakirannannyombi@gmail.com"><img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a><br><a href="mailto:devkiran256@gmail.com"><img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a><br>*Feel free to reach out for collaboration or questions!* | <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/><br>*Thanks for stopping by!* |iran.png" alt="Skills Animation" width="1280"/>
 
 ---
 
@@ -10,64 +12,70 @@
    
 # 💻 About Me
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr style="border: none;">
-        <td align="center" width="250" valign="top" style="border: none;">
-            <img src="assets/me.jpg" alt="Innovation Illustration" width="280" style="border-radius: 12px;" />
-        </td>
-        <td valign="top" align="center" style="border: none; padding: 20px;">
-            <strong>Welcome to my digital space!</strong> 🚀<br><br>
-            I'm passionate about <strong>creating impactful solutions</strong> that blend <strong>creativity</strong> and <strong>technology</strong>. My curiosity drives me to explore <strong>artificial intelligence</strong>, <strong>machine learning</strong>, <strong>data science</strong>, <strong>cyber security</strong>, <strong>mobile development</strong>, <strong>web development</strong>, and <strong>design</strong>.<br><br>
-            I love contributing to <strong>open-source projects</strong> and believe in the power of collaboration to solve real-world challenges. Every day is an opportunity to learn, grow, and make a difference through code!<br><br>
-            🌟 <strong>Interesting Fact:</strong> I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)<br><br>
-            <a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
-                <img src="https://img.shields.io/badge/-View%20My%20Portfolio-6a11cb?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge"/>
-            </a>
-            <br>
-            <em>Check out my projects and experience!</em>
-        </td>
-    </tr>
-</table>
+<div align="center">
+<img align="left" src="assets/me.jpg" alt="Innovation Illustration" width="250" style="border-radius: 12px; margin-right: 30px; margin-bottom: 20px;" />
 
-<br>
+<div align="left">
+
+**Welcome to my digital space!** 🚀
+
+I'm passionate about **creating impactful solutions** that blend **creativity** and **technology**. My curiosity drives me to explore **artificial intelligence**, **machine learning**, **data science**, **cyber security**, **mobile development**, **web development**, and **design**.
+
+I love contributing to **open-source projects** and believe in the power of collaboration to solve real-world challenges. Every day is an opportunity to learn, grow, and make a difference through code!
+
+🌟 **Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr style="border: none;">
-        <td align="center" style="border: none; padding: 10px;">
-            <strong>📫 How to reach me:</strong><br>
+<a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20My%20Portfolio-6a11cb?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge"/>
+</a>
+<br>
+<em>Check out my projects and experience!</em>
+</div>
+
+</div>
+</div>
+<br clear="left"/>
+<br>
+
+<table align="center">
+    <tr>
+        <th>📫 How to reach me</th>
+        <th>Pronouns</th>
+        <th>📧 Email</th>
+        <th>👀 Profile Views</th>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.linkedin.com/">
-                <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
             <br>
-            <em>Let's connect and collaborate!</em>
+            <sub>Let's connect and collaborate!</sub>
         </td>
-        <td align="center" style="border: none; padding: 10px;">
-            <strong>Pronouns:</strong><br>
-            <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge" />
+        <td>
+            <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge"/>
             <br>
-            <em>Empowering diversity in tech!</em>
+            <sub>Empowering diversity in tech!</sub>
         </td>
-        <td align="center" style="border: none; padding: 10px;">
-            <strong>📧 Email:</strong><br>
+        <td>
             <a href="mailto:shakirannannyombi@gmail.com">
                 <img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-            </a> 
-            <a href="mailto:devkiran256@gmail.com">
-                <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-            </a> 
+            </a>
             <br>
-            <em>Feel free to reach out for collaboration or questions!</em>
+            <a href="mailto:devkiran256@gmail.com">
+                <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge 2"/>
+            </a>
+            <br>
+            <sub>Feel free to reach out for collaboration or questions!</sub>
         </td>
-        <td align="center" style="border: none; padding: 10px;">
-            <strong>👀 Profile Views:</strong><br>
+        <td>
             <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
             <br>
-            <em>Thanks for stopping by!</em>
+            <sub>Thanks for stopping by!</sub>
         </td>
     </tr>
 </table>
-</div>
 
 ---
 

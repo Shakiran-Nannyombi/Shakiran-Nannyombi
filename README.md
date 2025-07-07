@@ -12,7 +12,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
     <tr style="border: none;">
-        <td align="center" width="250" valign="top" style="border: none; padding: 20px;">
+        <td align="center" width="250" valign="top" style="border: none;">
             <img src="assets/me.jpg" alt="Innovation Illustration" width="280" style="border-radius: 12px;" />
         </td>
         <td valign="top" align="center" style="border: none; padding: 20px;">

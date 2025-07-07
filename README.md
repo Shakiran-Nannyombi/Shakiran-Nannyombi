@@ -10,64 +10,46 @@
    
 # 💻 About Me
 
-<table>
-    <tr>
-        <td align="center" width="220" valign="top">
-            <img src="assets/me.jpg" alt="Innovation Illustration" width="400" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-        </td>
-        <td valign="top" align="center">
-            <strong>Welcome to my digital space!</strong> 🚀<br><br>
-            I'm passionate about <strong>creating impactful solutions</strong> that blend <strong>creativity</strong> and <strong>technology</strong>. My curiosity drives me to explore <strong>artificial intelligence</strong>, <strong>machine learning</strong>, <strong>data science</strong>, <strong>cyber security</strong>, <strong>mobile development</strong>, <strong>web development</strong>, and <strong>design</strong>.<br><br>
-            I love contributing to <strong>open-source projects</strong> and believe in the power of collaboration to solve real-world challenges. Every day is an opportunity to learn, grow, and make a difference through code!<br><br>
-            🌟 <strong>Interesting Fact:</strong> I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)<br><br>
-            <p align="center">
-                <a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
-                    <img src="https://img.shields.io/badge/-View%20My%20Portfolio-6a11cb?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge"/>
-                </a>
-                <br>
-                <em>Check out my projects and experience!</em>
-            </p>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <img src="assets/me.jpg" alt="Innovation Illustration" width="400" style="border-radius: 12px;" />
+</div>
+
+<div align="center">
+    <strong>Welcome to my digital space!</strong> 🚀<br><br>
+    I'm passionate about <strong>creating impactful solutions</strong> that blend <strong>creativity</strong> and <strong>technology</strong>. My curiosity drives me to explore <strong>artificial intelligence</strong>, <strong>machine learning</strong>, <strong>data science</strong>, <strong>cyber security</strong>, <strong>mobile development</strong>, <strong>web development</strong>, and <strong>design</strong>.<br><br>
+    I love contributing to <strong>open-source projects</strong> and believe in the power of collaboration to solve real-world challenges. Every day is an opportunity to learn, grow, and make a difference through code!<br><br>
+    🌟 <strong>Interesting Fact:</strong> I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)<br><br>
+    <a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-View%20My%20Portfolio-6a11cb?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge"/>
+    </a>
+    <br>
+    <em>Check out my projects and experience!</em>
+</div>
 
 <br>
 
-<table>
-    <tr>
-        <td valign="middle" align="left">
-            <strong>📫 How to reach me:</strong><br>
-            <a href="https://www.linkedin.com/">
-                <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-            <br>
-            <em>Let's connect and collaborate!</em>
-        </td>
-        <td valign="middle" align="left">
-            <strong>Pronouns:</strong><br>
-            <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge" />
-            <br>
-            <em>Empowering diversity in tech!</em>
-        </td>
-        <td>
-        <strong>📧 Email:</strong><br>
-        <a href="mailto:shakirannannyombi@gmail.com">
-            <img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </a> 
-        <a href="mailto:devkiran256@gmail.com">
-            <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </a> 
-        <br>
-        <em>Feel free to reach out for collaboration or questions!</em>
-        </td>
-        <td valign="middle" align="left">
-            <strong>👀 Profile Views:</strong><br>
-            <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
-            <br>
-            <em>Thanks for stopping by!</em>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    
+**📫 How to reach me:**  
+<a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>  
+*Let's connect and collaborate!*
+
+**📧 Email:**  
+<a href="mailto:shakirannannyombi@gmail.com">
+    <img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a> 
+<a href="mailto:devkiran256@gmail.com">
+    <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>  
+*Feel free to reach out for collaboration or questions!*
+
+**Pronouns:** ![She/Her](https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square) *Empowering diversity in tech!*
+
+**👀 Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue) *Thanks for stopping by!*
+
+</div>
 
 ---
 

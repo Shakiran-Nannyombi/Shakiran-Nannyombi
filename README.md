@@ -1,8 +1,7 @@
 # Hi there, I'm Shakiran 👋
 
-<img src="as| **📫 How to reach me** | **Pronouns** | **📧 Email** | **👀 Profile Views** |
-|:---:|:---:|:---:|:---:|
-| <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>*Let's connect and collaborate!* | <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge" /><br>*Empowering diversity in tech!* | <a href="mailto:shakirannannyombi@gmail.com"><img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a><br><a href="mailto:devkiran256@gmail.com"><img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a><br>*Feel free to reach out for collaboration or questions!* | <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/><br>*Thanks for stopping by!* |iran.png" alt="Skills Animation" width="1280"/>
+
+  <img src="assets/kiran.png" alt="Skills Animation" width="1280"/>
 
 ---
 

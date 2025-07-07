@@ -1,6 +1,6 @@
 # Hi there, I'm Shakiran 👋
 
-<img src="assets/ima.jpg" alt="Skills Animation" width="350"/>
+<img src="assets/kiran.png" alt="Skills Animation" width="350"/>
 
 ---
 

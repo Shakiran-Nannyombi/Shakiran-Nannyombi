@@ -42,7 +42,6 @@ I take every day is an opportunity to learn, grow, and make a difference through
 </a>
 <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
 </div>
-</div>
 
 #### 🚀 Tools & Platforms
 
@@ -62,13 +61,8 @@ I take every day is an opportunity to learn, grow, and make a difference through
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 <br><br>
-<p align="center">
-  <div style="display: inline-block; vertical-align: top; width: 48%;">
-    <h3>🛠️ Tech Stack</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical&hide_border=true" />
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 48%;">
-    <h3>📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical&hide_border=true" />
-  </div>
-</p>
+<div align="center">
+  <h3>🛠️ Tech Stack & 📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical&hide_border=true" width="45%" />
+</div>

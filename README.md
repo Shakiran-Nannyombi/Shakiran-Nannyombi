@@ -22,14 +22,13 @@ I'm **a problem solver** who loves **creating impactful solutions** that combine
 I take every day as an opportunity to learn, grow, and make a difference through code!
 
 🌟 **Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
-
+<br><br>
 <div align="center">
 <a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-View%20My%20Portfolio-6a11cb?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge"/>
 </a>
-<br>
-<em>Check out my projects and experience!</em>
-</div> <br>
+</div>
+<br><br>
 <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -41,7 +40,9 @@ I take every day as an opportunity to learn, grow, and make a difference through
     <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge 2"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
+</div> <br><br><br>
 </div>
+<br>
 
 #### 🚀 Tools & Platforms
 

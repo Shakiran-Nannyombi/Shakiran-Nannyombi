@@ -18,9 +18,8 @@
 
 **Welcome to my digital space!** 🚀
 
-I'm passionate about **creating impactful solutions** that blend **creativity** and **technology**. My curiosity drives me to explore **artificial intelligence**, **machine learning**, **data science**, **cyber security**, **mobile development**, **web development**, and **design**.
-
-I love contributing to **open-source projects** and believe in the power of collaboration to solve real-world challenges. Every day is an opportunity to learn, grow, and make a difference through code!
+I'm **a problem solver** who loves **creating impactful solutions** that combine **creativity** and **technology**. I am passionate about **Design** and **data**.
+I take every day is an opportunity to learn, grow, and make a difference through code!
 
 🌟 **Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
 
@@ -30,57 +29,20 @@ I love contributing to **open-source projects** and believe in the power of coll
 </a>
 <br>
 <em>Check out my projects and experience!</em>
+</div> <br>
+<a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+ <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge"/>
+ <a href="mailto:shakirannannyombi@gmail.com">
+    <img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="mailto:devkiran256@gmail.com">
+    <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge 2"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
 </div>
-
 </div>
-</div>
-<br clear="left"/>
-<br>
-
-<table align="center">
-    <tr>
-        <th>📫 How to reach me</th>
-        <th>Pronouns</th>
-        <th>📧 Email</th>
-        <th>👀 Profile Views</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.linkedin.com/">
-                <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-            <br>
-            <sub>Let's connect and collaborate!</sub>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/She%2FHer-ff69b4?style=flat-square" alt="She/Her pronouns badge"/>
-            <br>
-            <sub>Empowering diversity in tech!</sub>
-        </td>
-        <td>
-            <a href="mailto:shakirannannyombi@gmail.com">
-                <img src="https://img.shields.io/badge/-shakirannannyombi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-            </a>
-            <br>
-            <a href="mailto:devkiran256@gmail.com">
-                <img src="https://img.shields.io/badge/-devkiran256@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge 2"/>
-            </a>
-            <br>
-            <sub>Feel free to reach out for collaboration or questions!</sub>
-        </td>
-        <td>
-            <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
-            <br>
-            <sub>Thanks for stopping by!</sub>
-        </td>
-    </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical)
 
 #### 🚀 Tools & Platforms
 
@@ -99,39 +61,14 @@ I love contributing to **open-source projects** and believe in the power of coll
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
-
-<details>
-    <summary>💡 Other ideas to include here</summary>
-    
-- Frameworks (e.g., React, Django, Flutter, Node.js)
-- Databases (e.g., MySQL)
-- Cloud platforms (e.g., AWS, Azure, Google Cloud)
-- CI/CD tools (e.g., GitHub Actions, Jenkins)
-- Testing tools (e.g., Jest, Selenium)
-- Operating systems (e.g., Linux, Windows)
-- APIs and integrations
-- Any other tools you use regularly!
-</details>
-
----
-
-### 📊 GitHub Stats
-
- <!-- Weekly Development Breakdown
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Shakiran-Nannyombi&theme=radical)](https://wakatime.com/@Shakiran-Nannyombi) -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical)
-
----
-
-### 📈 Contribution Activity
-
- <!-- 🤝 Open Source Contributions
-- 🔥 [Project Name] - [Your contribution]
-- ⭐ [Another Project] - [Your role/contribution]
-- 📦 Created [Number] packages with [total downloads] -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakiran-Nannyombi&theme=react-dark)
-
----
-
+<br><br>
+<p align="center">
+  <div style="display: inline-block; vertical-align: top; width: 48%;">
+    <h3>🛠️ Tech Stack</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical&hide_border=true" />
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 48%;">
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical&hide_border=true" />
+  </div>
+</p>

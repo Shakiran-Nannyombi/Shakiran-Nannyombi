@@ -10,19 +10,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
 </p>
 
-# 💻 About Me
+# About Me
 
 <div align="center">
 <img align="left" src="assets/me.jpg" alt="Innovation Illustration" width="250" style="border-radius: 12px; margin-right: 30px; margin-bottom: 20px;" />
 
 <div align="left">
 
-**Welcome to my digital space!** 🚀
+**Welcome to my digital space!**
 
 I'm **a problem solver** who loves **creating impactful solutions** that combine **creativity** and **technology**. I am passionate about **Design** and **data**.
 I take every day as an opportunity to learn, grow, and make a difference through code!
 
-🌟 **Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
+**Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
 
 <div align="center">
 <a href="https://dev-kiran-portfolio.vercel.app/" target="_blank">
@@ -44,26 +44,40 @@ I take every day as an opportunity to learn, grow, and make a difference through
 <img src="https://komarev.com/ghpvc/?username=Shakiran-Nannyombi&color=blue" alt="Profile Views"/>
 </div>
 
-#### 🚀 Tools & Platforms
 
-<p align="left">
-    <!-- Design Tools -->
-    <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
-    <!-- Development Tools -->
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Collaboration & Productivity -->
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgresql,mysql,firebase,git,github,docker,kubernetes,aws,gcp,tensorflow,pytorch,sklearn,fastapi,flask,django,tailwind,bootstrap,sass,webpack,vite,jest,vitest,nginx,linux,bash,postman,figma,vscode,notion&perline=10" />
 </p>
-<br><br>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <h3>🛠️ Tech Stack & 📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiran-Nannyombi&layout=compact&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  
+![](https://github-readme-stats.vercel.app/api?username=Shakiran-Nannyombi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shakiran-Nannyombi&theme=radical&hide_border=true)
+
+</div>
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shakiran-Nannyombi&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakiran-Nannyombi&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakiran-Nannyombi&theme=radical" width="32%" />
+</p>
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakiran-Nannyombi&theme=radical)
+
 </div>

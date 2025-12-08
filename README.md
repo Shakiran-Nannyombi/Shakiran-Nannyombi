@@ -1,14 +1,15 @@
 # Hi there, I'm Shakiran 👋
 
-
-  <img src="assets/kiran.png" alt="Skills Animation" width="1280"/>
+<div align="center">
+  <img src="assets/gif.gif" alt="Skills Animation" width="1280"/>
+</div>
 
 ---
 
 <p align="center" style="font-size: 2.0rem; background: linear-gradient(90deg, #a18cd1 0%, #fbc2eb 25%, #fad0c4 50%, #f7971e 75%, #84fab0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A18CD1&center=true&vCenter=true&width=435&lines=Dev+Kiran;A+Software+Engineer;Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Data+Scientist" alt="Typing SVG" />
 </p>
-   
+
 # 💻 About Me
 
 <div align="center">

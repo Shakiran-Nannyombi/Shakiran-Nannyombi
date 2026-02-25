@@ -14,7 +14,9 @@ I'm **a problem solver** who loves **creating impactful solutions** that combine
 
 I take every day as an opportunity to learn, grow, and make a difference through code!
 
-**Interesting Fact:** I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
+**Interesting Facts:**
+- I'm a good dancer 😄 (Jokes aside, I really love dancing and music.)
+- I love purple, almost all my designs will be in purple 😅
 
 <div align="center">
 <a href="https://shakiran.dev/" target="_blank">

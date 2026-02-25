@@ -10,7 +10,7 @@
 
 ### Welcome to my digital space!
 
-I'm **a problem solver** who loves **creating impactful solutions** that combine **creativity** and **technology**. I am passionate about **Design** and **data**.
+I'm **a problem solver** who loves **creating impactful solutions** that combine **creativity** and **technology**.
 
 I take every day as an opportunity to learn, grow, and make a difference through code!
 

@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<img align="left" src="assets/me.jpg" alt="Innovation Illustration" width="250" style="border-radius: 12px; margin-right: 30px; margin-bottom: 20px;" />
+<img align="left" src="assets/profile.jpeg" alt="Innovation Illustration" width="250" style="border-radius: 12px; margin-right: 30px; margin-bottom: 20px;" />
 <div align="left">
 
 ### Welcome to my digital space!
